@@ -39,4 +39,13 @@ Here we tried to recreate some results of the famous paper on LeNet, published b
 We also validated that the LeNet model is robust to overtraining. However,we obtained data contradicting 
 the authors’ hypothesis regarding the causes of this robustness.
 
+# Writeups
+
+1. Hausdorff Dimension of Sets Defined by P-adic Continued Fractions (Supervisor: Eyal Zvi Goren)
+2. Using Lie Algebras to find solutions of a simplified Navier-Stokes equation (Supervisor: Alexander Hariton)
+
+
+
+
+
 
